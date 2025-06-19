@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="gmhfcom:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/gmhfcom_jar</output-path>
+    <root id="archive" name="gmhfcom.jar" />
+  </artifact>
+</component>
